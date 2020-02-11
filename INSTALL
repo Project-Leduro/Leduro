@@ -1,0 +1,9 @@
+Building Leduro
+
+See doc/readme-qt.rst for instructions on building Leduro QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Leduro.
+
+See doc/build-*.txt for instructions on building ledurod,
+the intended-for-services, no-graphical-interface, reference
+implementation of Leduro.

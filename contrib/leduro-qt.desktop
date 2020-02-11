@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Leduro
+Comment=LDR P2P Cryptocurrency
+Comment[fr]=LDR, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=LDR, eşten eşe kriptografik sanal para birimi
+Exec=leduro-qt %u
+Terminal=false
+Type=Application
+Icon=leduro128
+MimeType=x-scheme-handler/leduro;
+Categories=Office;Finance;
